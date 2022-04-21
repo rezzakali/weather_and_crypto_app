@@ -33,6 +33,11 @@ function Navbar() {
                   Whether API
                 </NavLink>
               </li>
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/github">
+                  Github API
+                </NavLink>
+              </li>
             </ul>
           </div>
         </div>
